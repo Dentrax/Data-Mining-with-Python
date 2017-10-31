@@ -3,22 +3,25 @@
 [Chapter 01 - Introduction]
 --------------------------
 
+* ["Data Mining Processes"](#data-mining-processes)
 * [Important Libraries](#important-libraries)
-    - * [Pandas](#pandas)
+    - [Pandas](#pandas)
+    - [NumPy](#numpy)
+    - [SciPy](#scipy)
+    - [Matplotlib](#matplotlib)
+    - [IPython](#ipython)
+    - [Scikit-Learn](#scikit-learn)
+    - [Statsmodels](#statsmodels)
+* [First Example](#first-example)
+* [Data Types](#data-types)
+* [Histogram](#histogram)
+* [Question](#question)
 
-
-**Important Libraries For Data Mining**
+## Data Mining Processes
+--------------------------
 
 ## Important Libraries
 --------------------------
-
-> * [Pandas](#pandas)
-> * [NumPy](#numpy)
-> * [SciPy](#scipy)
-> * [Matplotlib](#matplotlib)
-> * [IPython](#ipython)
-> * [Scikit-Learn](#scikit-learn)
-> * [Statsmodels](#statsmodels)
 
 ## Pandas
 
@@ -170,3 +173,15 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 | Developer		        | Written In | OS               | Type                  | License |
 | --------------------- |:----------:|:----------------:|:---------------------:|:-------:|
 | `Community project`	| `Python`   | `Cross platform` | `Technical computing` | `BSD`   |
+
+## First Example
+--------------------------
+
+## Data Types
+--------------------------
+
+## Histogram
+--------------------------
+
+## Question
+--------------------------
