@@ -16,6 +16,7 @@
 ## Pandas
 
 Click here for **[Official Page](http://pandas.pydata.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Pandas_(software))**
 
 **About**
@@ -37,6 +38,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Pandas_(software
 ## NumPy
 
 Click here for **[Official Page](http://www.numpy.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/NumPy)**
 
 **About**
@@ -58,6 +60,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/NumPy)**
 ## SciPy
 
 Click here for **[Official Page](https://www.scipy.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/SciPy)**
 
 **About**
@@ -82,6 +85,7 @@ Refers to several related but distinct entities:
 ## Matplotlib
 
 Click here for **[Official Page](https://matplotlib.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Matplotlib)**
 
 **About**
@@ -95,6 +99,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Matplotlib)**
 ## IPython
 
 Click here for **[Official Page](https://ipython.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/IPython)**
 
 **About**
@@ -118,6 +123,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/IPython)**
 ## Scikit-Learn
 
 Click here for **[Official Page](http://scikit-learn.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Scikit-learn)**
 
 **About**
@@ -139,6 +145,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Scikit-learn)**
 ## Statsmodels
 
 Click here for **[Official Page](http://www.statsmodels.org/)**
+
 Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
 **About**
