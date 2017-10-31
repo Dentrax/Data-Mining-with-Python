@@ -244,11 +244,11 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
     Example : (How many times have a customer bought a year?)
 
-        - Binary
+        Binary
 
-        - Norminal [Categorical]
+        Norminal [Categorical]
 
-        - Ordinal [Categorical]
+        Ordinal [Categorical]
 
             Ordinal data is also categorical data type. However, among their values, ordered relationship.
 
@@ -260,9 +260,9 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
     Example : (What are the weight of students in a school?)
 
-        - Inverval
+        Inverval
 
-        - Ratio
+        Ratio
 
 **Examples**
 
