@@ -1,9 +1,16 @@
-<h1 align="center">Data Mining with Python</h1>
+<h1 align="center">Data Mining with Python [Chapter 01 - Introduction]</h1>
 
 [Chapter 01 - Introduction]
 --------------------------
 
+* [Important Libraries](#important-libraries)
+    - * [Pandas](#pandas)
+
+
 **Important Libraries For Data Mining**
+
+## Important Libraries
+--------------------------
 
 > * [Pandas](#pandas)
 > * [NumPy](#numpy)
@@ -128,7 +135,7 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Scikit-learn)**
 
 **About**
 
-`Scikit-learn` (formerly scikits.learn) is a free software machine learning library for the Python programming language.[3] It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+`Scikit-learn` (formerly scikits.learn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
 1. Simple and efficient tools for data mining and data analysis
 
