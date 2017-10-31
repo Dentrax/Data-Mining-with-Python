@@ -56,9 +56,9 @@ The received datas from Model is evaluated. A key objective is to determine if t
 
 Depending on the requirements, the deployment phase can be as simple as generating a report or as complex as implementing a repeatable data scoring or data mining process. It is called phasing in the display of data.
 
-**OLTP**
-
 ![Preview Thumbnail](https://raw.githubusercontent.com/Dentrax/Data-Mining-with-Python/master/Chapter01-Introduction/images/figure_olap_vs_oltp.jpg)
+
+**OLTP**
 
 `On-line Transaction Processing` is characterized by a large number of short on-line transactions (INSERT, UPDATE, DELETE). The main emphasis for OLTP systems is put on very fast query processing, maintaining data integrity in multi-access environments and an effectiveness measured by number of transactions per second. In OLTP database there is detailed and current data, and schema used to store transactional databases is the entity model.
 
@@ -234,9 +234,6 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
 * Data Types
 
-    Numerical data : Numerical datas are : Discrete and Continuous
-    Categorical data : Categorical
-
     - Qualitative
 
     - Quantitative 
@@ -247,11 +244,11 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
         Example : (How many times have a customer bought a year?)
 
-            - Binary
+            -- Binary
 
-            - Norminal [Categorical]
+            -- Norminal [Categorical]
 
-            - Ordinal [Categorical]
+            -- Ordinal [Categorical]
 
             Ordinal data is also categorical data type. However, among their values, ordered relationship.
 
@@ -263,9 +260,9 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 
         Example : (What are the weight of students in a school?)
 
-            - Inverval
+            -- Inverval
 
-            - Ratio
+            -- Ratio
 
 **Examples**
 
