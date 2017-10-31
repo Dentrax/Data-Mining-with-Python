@@ -6,7 +6,11 @@ Click here for **[DataMining Wikipedia](https://goo.gl/RSdos1)**
 
 [What It Is](#what-it-is)
 
-[How To Use](#how-to-use)
+[What Will I Learn?](#what-will-i-learn)
+
+[Requirements](#requirements)
+
+[Curriculum](#curriculum)
 
 [About](#about)  
 
@@ -26,15 +30,13 @@ Click here for **[DataMining Wikipedia](https://goo.gl/RSdos1)**
 
 Data-Mining-with-Python guide contains DataMining examples and practices made with the Python language. Easy and advanced way to learn Data Mining practices.
 
-**Warning : These example tutorials are not a "How to Data Mine" or "How data mining works" and will not teach "Data mining techniques"**
+**Who is the target audience?**
 
-**Required Tools**
+This course is meant for anyone who wants to start Data Mining in Python. It starts from the basic concepts of each technology, so user's experienced in a particular area will be able to speed through these sections. 
 
-* -**[Python 3.6.2](https://www.python.org)**
-    - Python is a widely used high-level programming language for general-purpose programming.
+* Warning : This course assumes you have some Python knowledge, and `does not teach Python itself.`
 
-* -**[Anaconda Package](https://www.anaconda.com)**
-    - Anaconda is a freemium open source distribution of the Python and R programming languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment.
+* Warning : These example tutorials are not a "How to Data Mine" or "How data mining works" and will not teach "Data mining techniques"
 
 **Why Phyton**
 
@@ -44,9 +46,29 @@ Data-Mining-with-Python guide contains DataMining examples and practices made wi
 
 3. `Python` is Easy, Fast, Efficient
 
-## How To Use
+## What Will I Learn?
 
-Just research the **[main repository](https://github.com/Dentrax/Data-Mining-with-Python)** and learn it chapter-by-chapter gradually. Thats all.
+## Requirements
+
+* You should be familiar with Python
+* You will need a text editor (like Sublime Text) or IDE (Spyder)
+* You will need a computer on which you have the rights to install new software
+
+**Required Tools**
+
+* -**[Python 3.6.2](https://www.python.org)**
+    - Python is a widely used high-level programming language for general-purpose programming.
+
+* -**[Anaconda Package](https://www.anaconda.com)**
+    - Anaconda is a freemium open source distribution of the Python and R programming languages for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment.
+
+## Curriculum
+
+* Chapter 01
+
+    - Test
+
+* Chapter 02
 
 ## About
 
