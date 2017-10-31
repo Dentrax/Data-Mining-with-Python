@@ -232,37 +232,37 @@ Click here for **[Wikipedia Page](https://en.wikipedia.org/wiki/Statsmodels)**
 ## Data Types
 --------------------------
 
-* Data Types
+**Data Types**
 
-    - Qualitative
+* Qualitative
 
-    - Quantitative 
+* Quantitative 
 
-        * Discrete [Numerical]
+    - Discrete [Numerical]
 
-        It is integer-based. It usually refers to situations such as the number of occurrences of an event.
+    It is integer-based. It usually refers to situations such as the number of occurrences of an event.
 
-        Example : (How many times have a customer bought a year?)
+    Example : (How many times have a customer bought a year?)
 
-            -- Binary
+        * Binary
 
-            -- Norminal [Categorical]
+        * Norminal [Categorical]
 
-            -- Ordinal [Categorical]
+        * Ordinal [Categorical]
 
             Ordinal data is also categorical data type. However, among their values, ordered relationship.
 
             Example : (Movie ratings, Customer product reviews etc.)
 
-        * Continuous [Numerical]
+    - Continuous [Numerical]
 
-        These types of data are measured values. Both integers and commas can. That is, they can take all the values on the number line.
+    These types of data are measured values. Both integers and commas can. That is, they can take all the values on the number line.
 
-        Example : (What are the weight of students in a school?)
+    Example : (What are the weight of students in a school?)
 
-            -- Inverval
+        * Inverval
 
-            -- Ratio
+        * Ratio
 
 **Examples**
 
